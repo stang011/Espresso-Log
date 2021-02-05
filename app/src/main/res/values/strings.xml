@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Espresso Log</string>
+    <string name="mainScreenTab">Log Espresso</string>
+    <string name="saveScreenTab">Saved Logs</string>
+    <string name="ratioSettings">Ratio Settings</string>
+    <string name="recipe">Recipe</string>
+    <string name="espresso">Espresso</string>
+    <string name="output">Output</string>
+    <string name="ratio">Ratio</string>
+    <string name="grams">g</string>
+    <string name="grinder">Grinder</string>
+    <string name="grindSettings">Grind Setting</string>
+    <string name="runTime">Run Time</string>
+    <string name="coffee">Coffee</string>
+    <string name="origin">Origin</string>
+    <string name="taste">Taste</string>
+    <string name="hint">Fruity, nutty, sour, sharp, ect</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="espressoGrams">16.0</string>
+    <string name="outputGrams">32.0</string>
+    <string name="ratioExample">1:</string>
+    <string name="ratioExample2">2.0</string>
+    <string name="brewTime">Brew Time</string>
+    <string name="brewTimeHint">30</string>
+    <string name="seconds">seconds</string>
+    <string name="grindHint">12</string>
+    <string name="runTimeHint">18.5</string>
+    <string name="originHint">5th &amp; Elm Guatemalan</string>
+    <string name="updateList">Update Logs</string>
+    <string name="appName">Espresso Log</string>
+    <string name="developer">Developed by:\nJay Schimmoller II</string>
+</resources>
